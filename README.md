@@ -4,6 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-framework-009688?logo=fastapi&logoColor=white)
 ![PRAW](https://img.shields.io/badge/PRAW-Reddit%20API-FF4500?logo=reddit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI-F55036?logo=groq&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A Python Reddit bot with a web dashboard that reads subreddit comments and generates AI-powered reply drafts using Google Gemini or Groq. Replies are staged for human review before posting — keeping you in full control.
