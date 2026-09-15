@@ -1,0 +1,8 @@
+python-dotenv
+groq
+google-genai
+streamlit
+praw
+fastapi
+uvicorn
+jinja2

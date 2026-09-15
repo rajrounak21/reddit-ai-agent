@@ -1,0 +1,30 @@
+# Credentials — never commit your real .env
+.env
+
+# Virtual environments
+.venv/
+venv/
+myenv/
+
+# Local agent config — not part of the public repo
+.agents/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dev/test scripts — not part of the public repo
+check.py
+test.py
+
+# Logs
+*.log
