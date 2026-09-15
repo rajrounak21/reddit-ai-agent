@@ -13,7 +13,7 @@ DEFAULT_SYSTEM_PROMPT = (
 AVAILABLE_MODELS = {
     "gemini": [
         {"id": "gemini-3.6-flash", "name": "Gemini 3.6 Flash (Fast & Recommended)"},
-        {"id": "gemini-2.5-flash", "name": "Gemini 2.5 Flash"},
+        {"id": "gemini-3.8-flash", "name": "Gemini 2.5 Flash"},
         {"id": "gemini-2.5-pro", "name": "Gemini 2.5 Pro"}
     ],
     "groq": [
