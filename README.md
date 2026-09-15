@@ -1,11 +1,11 @@
 # Reddit AI Agent
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-framework-009688?logo=fastapi&logoColor=white)
-![PRAW](https://img.shields.io/badge/PRAW-Reddit%20API-FF4500?logo=reddit&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?style=flat&logo=fastapi&logoColor=white)
+![PRAW](https://img.shields.io/badge/PRAW-Reddit%20API-FF4500?style=flat&logo=reddit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI-4285F4?style=flat&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI-F55036?style=flat&logo=groq&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-2EA44F?style=flat&logo=opensourceinitiative&logoColor=white)
 
 A Python Reddit bot with a web dashboard that reads subreddit comments and generates AI-powered reply drafts using Google Gemini or Groq. Replies are staged for human review before posting — keeping you in full control.
 
